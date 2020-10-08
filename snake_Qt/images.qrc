@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/Apple.png</file>
+        <file>img/Back.jpg</file>
+        <file>img/Back1.jpg</file>
+        <file>img/Back2.jpg</file>
+        <file>img/down.png</file>
+        <file>img/downup.png</file>
+        <file>img/Exit.png</file>
+        <file>img/GameBack.jpg</file>
+        <file>img/headdown.png</file>
+        <file>img/headleft.png</file>
+        <file>img/headright.png</file>
+        <file>img/headup.png</file>
+        <file>img/left.png</file>
+        <file>img/leftdown.png</file>
+        <file>img/leftright.png</file>
+        <file>img/leftup.png</file>
+        <file>img/Pause.png</file>
+        <file>img/right.png</file>
+        <file>img/rightdown.png</file>
+        <file>img/rightup.png</file>
+        <file>img/Start.png</file>
+        <file>img/taildown.png</file>
+        <file>img/tailleft.png</file>
+        <file>img/tailright.png</file>
+        <file>img/tailup.png</file>
+        <file>img/up.png</file>
+        <file>img/WindowPicture.jpg</file>
+    </qresource>
+</RCC>
