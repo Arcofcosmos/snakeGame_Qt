@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/sound">
+        <file>sounds/button.wav</file>
+        <file>sounds/button1.mp3</file>
+        <file>sounds/di.wav</file>
+        <file>sounds/gameover.mp3</file>
+        <file>sounds/music.mp3</file>
+        <file>sounds/music.wav</file>
+        <file>sounds/music1.mp3</file>
+        <file>sounds/sound.wav</file>
+        <file>sounds/backmusic.mp3</file>
+    </qresource>
+</RCC>
